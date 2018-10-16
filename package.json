@@ -3,4 +3,7 @@
   "description": "Week 9 Practice",
   "main": "index.html",
   "dependencies": {}
+  "version": "1.0.0",
+  "description": "Vuefire, Firebase, vue todo list. Single page persistent todo list. ",
+  "keywords": []
 }
